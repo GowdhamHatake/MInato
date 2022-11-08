@@ -17,18 +17,21 @@ public class Naruto {
 		System.out.println(8);
 	}
 	
-	private void four() {
+	private void seven() {
 
-		System.out.println(10);
+		System.out.println(16);
 	}
 
-	private void five() {
+    private void eight() {
 
-		System.out.println(12);
-	}
-	
-	private void six() {
+	   System.out.println(18);
+    }
+    
+    private void nine() {
 
-		System.out.println(14);
+    	System.out.println(20);
 	}
+
+
+
 }
